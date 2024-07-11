@@ -7,11 +7,11 @@ I really enjoy learning languages and frameworks like React and started my path 
   🥲 Fun fact: There are about 2 billion websites...
   
 ## SKILLS:
-*C
-*DSA using C
-*PYTHON
-*SQL
-*💻HTML,CSS
+* C
+* DSA using C
+* PYTHON
+* SQL
+* 💻HTML,CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiguthikonda)](https://github.com/anuraghazra/github-readme-stats)
 
