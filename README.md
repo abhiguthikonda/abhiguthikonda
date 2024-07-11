@@ -1,6 +1,6 @@
-# I'm Abhi
-Coding hardd!!!
+# Abhinay
 
+Coding hardd!!!
 I’m abhinay guthikonda from Andhra, and I'm pursuing a Bachelor's degree in Computer Science Engineering at SRM University,AP.
 I really enjoy learning languages and frameworks like React and started my path as front end web devloper,learning with my peak attention
   😄 Pronouns: he/him
