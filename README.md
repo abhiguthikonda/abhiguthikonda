@@ -21,8 +21,7 @@ I really enjoy learning languages and frameworks like React and started my path 
 * PYTHON
 * SQL
 * 💻HTML,CSS
-
-* 
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhiguthikonda&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhiguthikonda&theme=dark&hide_border=true)<br/>
@@ -30,29 +29,10 @@ I really enjoy learning languages and frameworks like React and started my path 
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiguthikonda)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=abhiguthikonda&icon=1&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiguthikonda)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiguthikonda&show_icons=true)  
-
 📫To reach me: guthikonda018@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
